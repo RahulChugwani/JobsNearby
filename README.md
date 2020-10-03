@@ -14,6 +14,7 @@ This platform brings Owners an easy access to find out workers/labours near thei
 # Signup and getting regular job updates functionality on Whatsapp by SahayakBot.
 # Getting job/work nearby will bring more money in small towns and can reduce workers immigration to big cities.
 # Easy for new industries in remote areas to get labours on one click and will boost MSME economy.
+#Easy for new repos and labours who are going to bein new city
 
 
 # Technology 
