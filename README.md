@@ -17,7 +17,7 @@ This platform brings Owners an easy access to find out workers/labours near thei
       5. Feed (For owners, to see different labours matching their job criteria)
       6. Reviews and Rating ( For owners and labours )
       7. Search Nearby labours using Maps and filters.
-      8. Whatsapp "SahayakBot" where you can do register and get job updates.
+      8. Whatsapp "SahayakBot" where you can do register and get job updates. (future aspect)
       9. Save and Like labours/job posts.
       10. Signup using phone number verification.
 
